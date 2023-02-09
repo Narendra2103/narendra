@@ -2,5 +2,4 @@
 my first resository in gitb
 
 
-
-:I::love::sleeping::Biryani::playing::cricket::watcing::movies:
+My Hobbies are__> playing cricket: : sleeping : :biryani: :reading
